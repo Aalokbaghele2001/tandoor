@@ -1,0 +1,257 @@
+{
+  "tandoor":[
+  {
+    "id": 1,
+    "dish": "Tandoori Chicken",
+    "image": "https://www.example.com/tandoori_chicken.jpg",
+    "price": 199,
+    "type": "Non-Vegetarian",
+    "desc": "Chicken marinated in yogurt and seasoned with Indian spices, roasted to perfection in a tandoor (clay oven).",
+    "rating": 4.7,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Spice Route",
+      "address": "123 Masala Lane, Delhi",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Free dessert on orders above Rs. 500",
+      "rating": 4.6,
+      "about": "Spice Route specializes in authentic Indian tandoori dishes, offering a blend of traditional flavors."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Tandoori Roti",
+    "image": "https://www.example.com/tandoori_roti.jpg",
+    "price": 25,
+    "type": "Vegetarian",
+    "desc": "Whole wheat bread cooked in a tandoor (clay oven), with a smoky flavor and soft texture.",
+    "rating": 4.5,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Naan Palace",
+      "address": "456 Naan Street, Mumbai",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "10% off on weekdays",
+      "rating": 4.4,
+      "about": "Naan Palace is renowned for its freshly baked tandoori breads and authentic Indian cuisine."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Tandoori Fish Tikka",
+    "image": "https://www.example.com/tandoori_fish_tikka.jpg",
+    "price": 249,
+    "type": "Non-Vegetarian",
+    "desc": "Fresh fish marinated in yogurt and spices, skewered and grilled in a tandoor (clay oven) until tender and flavorful.",
+    "rating": 4.8,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Fisherman's Catch",
+      "address": "789 Seafood Avenue, Goa",
+      "timing": "12:30 PM - 11:00 PM",
+      "offers": "20% off on seafood tandoori platters",
+      "rating": 4.7,
+      "about": "Fisherman's Catch specializes in seafood delicacies, including mouth-watering tandoori fish tikka."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Tandoori Paneer Tikka",
+    "image": "https://www.example.com/tandoori_paneer_tikka.jpg",
+    "price": 179,
+    "type": "Vegetarian",
+    "desc": "Paneer (Indian cottage cheese) marinated in yogurt, spices, and grilled to perfection in a tandoor (clay oven).",
+    "rating": 4.6,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Paneer Paradise",
+      "address": "234 Cottage Lane, Bangalore",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "15% off on paneer dishes",
+      "rating": 4.5,
+      "about": "Paneer Paradise is known for its delectable paneer dishes, including the popular tandoori paneer tikka."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Tandoori Mushroom",
+    "image": "https://www.example.com/tandoori_mushroom.jpg",
+    "price": 159,
+    "type": "Vegetarian",
+    "desc": "Mushrooms marinated in a tangy spice mix and grilled in a tandoor (clay oven), perfect as a starter or appetizer.",
+    "rating": 4.5,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Mushroom Junction",
+      "address": "567 Fungi Road, Chennai",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Buy 1 Get 1 Free on tandoori items",
+      "rating": 4.4,
+      "about": "Mushroom Junction offers a variety of mushroom-based dishes, including flavorful tandoori mushroom."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Tandoori Lamb Chops",
+    "image": "https://www.example.com/tandoori_lamb_chops.jpg",
+    "price": 299,
+    "type": "Non-Vegetarian",
+    "desc": "Tender lamb chops marinated in aromatic spices, grilled in a tandoor (clay oven) for a smoky and succulent flavor.",
+    "rating": 4.8,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Lamb Lovers",
+      "address": "890 Lamb Lane, Hyderabad",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Chef's special tandoori lamb platter",
+      "rating": 4.7,
+      "about": "Lamb Lovers is a haven for lamb enthusiasts, offering a range of tandoori lamb dishes and kebabs."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Tandoori Prawns",
+    "image": "https://www.example.com/tandoori_prawns.jpg",
+    "price": 329,
+    "type": "Non-Vegetarian",
+    "desc": "Juicy prawns marinated in a spicy yogurt mixture, skewered and grilled in a tandoor (clay oven) until charred and flavorful.",
+    "rating": 4.7,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Prawn Paradise",
+      "address": "234 Seafood Street, Kolkata",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "20% off on seafood tandoori dishes",
+      "rating": 4.6,
+      "about": "Prawn Paradise specializes in seafood delicacies, including succulent tandoori prawns grilled to perfection."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Tandoori Mixed Grill",
+    "image": "https://www.example.com/tandoori_mixed_grill.jpg",
+    "price": 349,
+    "type": "Non-Vegetarian",
+    "desc": "Assortment of tandoori chicken, lamb chops, prawns, and fish tikka, grilled to perfection in a clay oven.",
+    "rating": 4.8,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Grill Station",
+      "address": "789 Grill Avenue, Pune",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Chef's special tandoori platter",
+      "rating": 4.7,
+      "about": "Grill Station offers a variety of grilled delicacies, including the popular tandoori mixed grill."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Tandoori Aloo",
+    "image": "https://www.example.com/tandoori_aloo.jpg",
+    "price": 139,
+    "type": "Vegetarian",
+    "desc": "Baby potatoes marinated in yogurt, spices, and grilled in a tandoor (clay oven), with a smoky and spicy flavor.",
+    "rating": 4.6,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Potato Paradise",
+      "address": "567 Potato Lane, Jaipur",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "15% off on potato tandoori items",
+      "rating": 4.5,
+      "about": "Potato Paradise offers a variety of potato-based dishes, including flavorful tandoori aloo."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Tandoori Seekh Kebab",
+    "image": "https://www.example.com/tandoori_seekh_kebab.jpg",
+    "price": 179,
+    "type": "Non-Vegetarian",
+    "desc": "Minced lamb or chicken mixed with spices, skewered and grilled in a tandoor (clay oven) until perfectly charred.",
+    "rating": 4.7,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Kebab Corner",
+      "address": "234 Kebab Road, Chandigarh",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "20% off on kebab platters",
+      "rating": 4.6,
+      "about": "Kebab Corner is renowned for its succulent kebabs and tandoori specialties."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Tandoori Mushroom",
+    "image": "https://www.example.com/tandoori_mushroom.jpg",
+    "price": 159,
+    "type": "Vegetarian",
+    "desc": "Mushrooms marinated in a tangy spice mix and grilled in a tandoor (clay oven), perfect as a starter or appetizer.",
+    "rating": 4.5,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Mushroom Junction",
+      "address": "567 Fungi Road, Chennai",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Buy 1 Get 1 Free on tandoori items",
+      "rating": 4.4,
+      "about": "Mushroom Junction offers a variety of mushroom-based dishes, including flavorful tandoori mushroom."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Tandoori Lamb Chops",
+    "image": "https://www.example.com/tandoori_lamb_chops.jpg",
+    "price": 299,
+    "type": "Non-Vegetarian",
+    "desc": "Tender lamb chops marinated in aromatic spices, grilled in a tandoor (clay oven) for a smoky and succulent flavor.",
+    "rating": 4.8,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Lamb Lovers",
+      "address": "890 Lamb Lane, Hyderabad",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Chef's special tandoori lamb platter",
+      "rating": 4.7,
+      "about": "Lamb Lovers is a haven for lamb enthusiasts, offering a range of tandoori lamb dishes and kebabs."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Tandoori Prawns",
+    "image": "https://www.example.com/tandoori_prawns.jpg",
+    "price": 329,
+    "type": "Non-Vegetarian",
+    "desc": "Juicy prawns marinated in a spicy yogurt mixture, skewered and grilled in a tandoor (clay oven) until charred and flavorful.",
+    "rating": 4.7,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Prawn Paradise",
+      "address": "234 Seafood Street, Kolkata",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "20% off on seafood tandoori dishes",
+      "rating": 4.6,
+      "about": "Prawn Paradise specializes in seafood delicacies, including succulent tandoori prawns grilled to perfection."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Tandoori Mixed Grill",
+    "image": "https://www.example.com/tandoori_mixed_grill.jpg",
+    "price": 349,
+    "type": "Non-Vegetarian",
+    "desc": "Assortment of tandoori chicken, lamb chops, prawns, and fish tikka, grilled to perfection in a clay oven.",
+    "rating": 4.8,
+    "category": "tandoor",
+    "restaurant": {
+      "name": "Grill Station",
+      "address": "789 Grill Avenue, Pune",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Chef's special tandoori platter",
+      "rating": 4.7,
+      "about": "Grill Station offers a variety of grilled delicacies, including the popular tandoori mixed grill."
+    }
+  }
+]
+}
+
